@@ -1,5 +1,5 @@
 {
-  "group": "GROUP_05",
+  "group": "Group 05",
   "model": "LinearRegression",
   "target": "yield_t_per_ha",
   "numeric_features": [
@@ -30,7 +30,7 @@
     "access_to_credit"
   ],
   "test_metrics": {
-    "MAE": 1.4238596523305183,
+    "MAE": 1.423859652330518,
     "RMSE": 1.8300634851816904,
     "R2": 0.5858051843352476
   },
@@ -164,9 +164,9 @@
       "Yes"
     ]
   },
-  "trained_at": "2026-11-27T19:48:12+00:00",
-  "python": "3.13.9",
-  "scikit_learn": "1.7.2",
+  "trained_at": "2026-11-27T17:44:05+00:00",
+  "python": "3.14.2",
+  "scikit_learn": "1.9.1",
   "data_note": "Trained on SYNTHETIC teaching data. Do not use for real farm decisions.",
   "notes": "Chosen by 5-fold CV (Linear regression)"
 }
